@@ -1,0 +1,16 @@
+:root{
+    --green-color: hsl(75, 94%, 57%);
+    --white-color: hsl(0, 0%, 100%);
+    --gray-color-700: hsl(0, 0%, 20%);
+    --gray-color-800: hsl(0, 0%, 12%);
+    --gray-color-900: hsl(0, 0%, 8%);
+
+    font-size: 14px;
+}
+
+body{
+    background: var(--gray-color-900);
+    color: var(--white-color);
+    min-height: 100vh;
+
+}
